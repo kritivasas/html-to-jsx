@@ -1,7 +1,7 @@
 {
   "name": "html-to-jsx",
   "main": "./lib/html-to-jsx",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A package to covert html to jsx in atom",
   "keywords": [],
   "activationCommands": {

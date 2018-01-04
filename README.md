@@ -1,3 +1,5 @@
-* Select your html text
+* put this in your code: **import st from "./index.scss"**//(can be path to your scss file)
+* The variable name is fixed to 'st' for now.
+* select the html to convert
+* press **ctrl+alt+o**
 
-* press **ctrl+alt+o** or Open command palet [**ctrl+shift+p**], type **Html To Jsx:Toggle**
